@@ -1,0 +1,23 @@
+{
+  "levels": [
+    {
+      "no": 13,
+      "map": [
+        { "values": [9, 0, 1, 9] },
+        { "values": -1 },
+        { "values": -1 },
+        { "values": [9, 5, 5, 0] },
+        { "values": [0, 8, 8, 5] },
+        { "values": -1 },
+        { "values": -1 },
+        { "values": [1, 8, 0, 9] },
+        { "values": [] },
+        { "values": -1 },
+        { "values": -1 },
+        { "values": [] },
+        { "values": [8, 5, 1, 1] },
+        { "values": -1 }
+      ]
+    }
+  ]
+}

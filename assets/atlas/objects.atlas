@@ -1,0 +1,41 @@
+
+objects.png
+size: 2048, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+leaf
+  rotate: false
+  xy: 0, 0
+  size: 703, 410
+  orig: 724, 621
+  offset: 0, 27
+  index: 2
+leaf
+  rotate: false
+  xy: 706, 170
+  size: 610, 240
+  orig: 724, 621
+  offset: 0, 191
+  index: 3
+leaf
+  rotate: false
+  xy: 1319, 191
+  size: 561, 219
+  orig: 721, 621
+  offset: 0, 201
+  index: 1
+leaf
+  rotate: false
+  xy: 706, 20
+  size: 553, 147
+  orig: 724, 621
+  offset: 0, 237
+  index: 5
+leaf
+  rotate: false
+  xy: 1319, 44
+  size: 554, 144
+  orig: 724, 621
+  offset: 0, 239
+  index: 4

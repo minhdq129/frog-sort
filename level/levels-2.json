@@ -1,0 +1,15 @@
+{
+  "levels": [
+    {
+      "no": 2,
+      "map": [
+        { "values": [5, 5] },
+        { "values": -1 },
+        { "values": -1 },
+        { "values": [1, 1, 1] },
+        { "values": [5, 5, 1] },
+        { "values": -1 }
+      ]
+    }
+  ]
+}
